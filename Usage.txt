@@ -1,0 +1,15 @@
+# Clone the repository to your machine
+git clone https://github.com/navkaran08/Password-Strength-Analyzer-Pro-2026.git
+
+# Move into the project directory
+cd Password-Strength-Analyzer-Pro-2026
+
+# Open the tool directly in your default web browser
+# For Windows:
+start Password-Strength-Analyzer-Pro-2026.html
+
+# For macOS:
+open Password-Strength-Analyzer-Pro-2026.html
+
+# For Linux:
+xdg-open Password-Strength-Analyzer-Pro-2026.html
