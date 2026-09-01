@@ -1,30 +1,29 @@
-🔐 Password Strength Analyzer Pro 2026
+# 🔐 Password Strength Analyzer Pro 2026
 
-An advanced Cyber Security password analysis tool built with HTML, CSS, and JavaScript. PSA Pro 2026 analyzes password strength using character analysis, common-password detection, pattern identification, security scoring, and actionable password recommendations — directly in the browser.
+An advanced **Cyber Security password analysis tool** built with **HTML, CSS, and JavaScript**. PSA Pro 2026 analyzes password strength using character analysis, security scoring, entropy, common-password detection, predictable pattern detection, breach/exposure checks, and smart security recommendations.
 
-✨ Features
+## ✨ Features
 
-🔒 Real-time password strength analysis
-📊 Password strength score with visual indicator
-🔍 Character composition analysis
-🗃️ 50K+ common/weak password database
-⚠️ Common and predictable password detection
-🔄 Predictable sequence and pattern detection
-🧮 Password security/entropy analysis
-🛡️ Breach & exposure checking where supported
-💡 Smart password improvement recommendations
-👁️ Show/Hide password option
-🧠 Client-side password analysis
-🔐 Privacy-focused architecture
-🎨 Modern Cyberpunk-inspired security interface
-⚡ Fast and responsive browser-based application
-📦 Standalone HTML application — no backend required
+🔒 Real-time password strength analysis  
+📊 Password strength score with visual indicator  
+🧮 Password entropy & security analysis  
+🔍 Character analysis (uppercase, lowercase, digits, symbols)  
+🗃️ 50K+ common and weak password database  
+⚠️ Common and weak password detection  
+🔄 Predictable sequence and pattern detection  
+📅 Predictable year/date pattern detection  
+🛡️ Breach & exposure checking  
+💡 Smart password improvement recommendations  
+👁️ Show/Hide password option  
+🧠 Client-side password analysis  
+🔐 Privacy-focused architecture  
+🎨 Modern Cyber Security / Cyberpunk interface  
+⚡ Fast and responsive interface  
+📦 Standalone HTML application  
 
-🛠️ Requirements
+## 🛠️ Requirements
 
-🌐 Modern web browser
-
-Recommended:
+🌐 **Modern Web Browser**
 
 - Google Chrome
 - Microsoft Edge
@@ -32,82 +31,89 @@ Recommended:
 - Safari
 - Chromium-based browsers
 
-No Node.js, npm, database, or backend server is required.
+**No Node.js, npm, Python, database, or backend server is required.**
 
-📦 Installation / ▶️ Run
+## 📦 Installation or ▶️ Run
 
-Clone the repository:
+Clone the repository and launch PSA Pro 2026 using the command for your operating system.
 
-git clone https://github.com/navkaran08/Password-Strength-Analyzer-Pro-2026.git
-cd Password-Strength-Analyzer-Pro-2026
+### 🪟 Windows
 
-Then open:
+```cmd
+git clone https://github.com/navkaran08/Password-Strength-Analyzer-Pro-2026.git && cd Password-Strength-Analyzer-Pro-2026 && start Password-Strength-Analyzer-Pro-2026.html
+```
 
+### ⚡ Windows PowerShell
+
+```powershell
+git clone https://github.com/navkaran08/Password-Strength-Analyzer-Pro-2026.git; cd Password-Strength-Analyzer-Pro-2026; Start-Process .\Password-Strength-Analyzer-Pro-2026.html
+```
+
+### 🐧 Linux
+
+```bash
+git clone https://github.com/navkaran08/Password-Strength-Analyzer-Pro-2026.git && cd Password-Strength-Analyzer-Pro-2026 && xdg-open Password-Strength-Analyzer-Pro-2026.html
+```
+
+### 🍎 macOS
+
+```bash
+git clone https://github.com/navkaran08/Password-Strength-Analyzer-Pro-2026.git && cd Password-Strength-Analyzer-Pro-2026 && open Password-Strength-Analyzer-Pro-2026.html
+```
+
+### 📂 Manual Run
+
+Already downloaded the repository?
+
+Simply open:
+
+```text
 Password-Strength-Analyzer-Pro-2026.html
+```
 
-Linux
+with your preferred modern web browser.
 
-xdg-open Password-Strength-Analyzer-Pro-2026.html
+**No installation required.**
 
-macOS
+## 📷 Preview
 
-open Password-Strength-Analyzer-Pro-2026.html
+Modern Cyber Security interface with:
 
-Windows
+🔐 Password Strength Meter  
+📊 Security Score & Analysis  
+🔍 Character Analysis  
+🗃️ Common Password Detection  
+🔄 Predictable Pattern Detection  
+🛡️ Breach / Exposure Checking  
+💡 Password Security Recommendations  
+👁️ Show / Hide Password Option  
+🎨 Cyberpunk-inspired Security Interface  
 
-start Password-Strength-Analyzer-Pro-2026.html
+## 🔒 Security Notice
 
-That's it — open the HTML file and start analyzing.
+Never enter a real password that you currently use for an important account.
 
-📷 Preview
+Always use a **randomly generated or disposable password** for testing.
 
-Modern Cybersecurity UI with:
+The core password analysis is designed to run locally in the browser. Some breach/exposure features may require external network requests depending on the implementation.
 
-🔐 Password strength analysis
-📊 Security score & indicators
-🔍 Character analysis
-🗃️ Common-password detection
-🛡️ Breach/exposure checks
-💡 Security recommendations
-🌐 Cyberpunk-inspired interface
-
-🔒 Privacy & Security
-
-PSA Pro 2026 is designed with a privacy-first approach.
-
-The core password analysis runs locally inside the user's browser and does not require a project backend.
-
-«⚠️ Security Notice: Never enter a real password that you currently use for an important account. Always use a randomly generated or disposable password for testing.»
-
-Some breach/exposure features may require external network requests depending on the implementation.
-
-🎯 Purpose
+## 🎯 Purpose
 
 PSA Pro 2026 is designed for:
 
-- Cybersecurity education
-- Password-security awareness
-- Defensive security testing
-- Security demonstrations
-- Learning password-security concepts
+🎓 Cybersecurity Education  
+🔐 Password Security Awareness  
+🛡️ Defensive Security Testing  
+🧪 Security Demonstrations  
+📚 Learning Password Security Concepts  
 
 Use the tool only with passwords and data you are authorized to test.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Navkaran Singh
-Penetration Tester | Cybersecurity Enthusiast
+**Navkaran Singh**  
+*Ethical Hacker | Penetration Tester*
 
-📄 License
+## 📄 License
 
-This project is licensed under the MIT License.
-
----
-
-<div align="center">🔐 PSA Pro 2026
-
-Analyze Smarter. Build Stronger. Protect Better.
-
-⭐ If you find this project useful, consider starring the repository.
-
-</div>
+This project is licensed under the **MIT License**.
